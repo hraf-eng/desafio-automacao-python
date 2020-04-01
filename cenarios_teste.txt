@@ -1,0 +1,41 @@
+--------------------------------------------------------------------------------
+Cenário 01: Redefinição de senha com sucesso
+--------------------------------------------------------------------------------
+Pré condição
+- Ter uma conta de email cadastrada logada no aplicativo com login e senha
+- Aplicativo Instagram da Play Store já baixado, instalado e atualizado.
+
+Passo a Passo
+- Abrir o aplicativo "Instagram"
+- Clicar botão de perfil
+- Clicar botão de menu
+- Clicar no botão configurações
+- Clicar no botão Segurança
+- Clicar no botão senha
+- Clicar no campo senha atual
+- Digitar senha atual
+- Clicar no campo nova senha
+- Digitar nova senha
+- Clicar no campo confirmar nova senha
+- Digitar nova senha no campo confirmar nova senha
+- Clicar no botão confirmar
+
+Resultado esperado
+- Verificar que a mensagem "senha alterada com sucesso" foi mostrada no display
+
+
+--------------------------------------------------------------------------------
+Cenário 02: Realizar pesquisa de perfil
+--------------------------------------------------------------------------------
+Pré condição
+- Ter uma conta de email cadastrada logada no aplicativo com login e senha
+- Aplicativo Instagram da Play Store já baixado, instalado e atualizado.
+
+Passo a Passo
+- Abrir o aplicativo "Instagram"
+- Clicar botão lupa
+- Clicar no campo "pequisar"
+- Digitar "indt"
+
+Resultado esperado
+- Verificar se aparece no display resultado das buscas
